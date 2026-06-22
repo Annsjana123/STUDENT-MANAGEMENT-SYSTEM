@@ -1,4 +1,4 @@
-📚 Student Management System
+📚 **Student Management System**
 📌 Overview
 The Student Management System (SMS) is a software application designed to manage student records efficiently. It helps in storing, updating, retrieving, and deleting student information such as personal details, academic data, and performance records. This project is useful for schools, colleges, and universities to reduce paperwork and improve data accuracy.
 
